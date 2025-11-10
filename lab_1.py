@@ -1,3 +1,7 @@
+#Name: Aryan Solanki
+#BTech AI/ML - A
+#2501730347
+#Date: 28 october 2025
 # calorie tracker
 print('''***** WELCOME TO CALORIE TRACKER *****
       You can track your daily calorie intake here.''')
@@ -32,3 +36,4 @@ if total_calories > lim:
 else: 
     print("You are within your daily calorie limit :)")
 print(total_calories)
+
