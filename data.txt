@@ -1,0 +1,37 @@
+
+***** DAILY CALORIE INTAKE SUMMARY (2025-11-11 21:02:26) *****
+		Meal Name	Calories
+		-------------------------
+		Breakfast	500.0
+		Lunch	300.0
+		Dinner	200.0
+		Total:	1000.0
+		Average per meal:	333.3333333333333
+		-------------------------
+***WARNING***
+          YOU HAVE EXCEEDED YOUR DAILY CALORIE LIMIT!!!
+
+***** DAILY CALORIE INTAKE SUMMARY (2025-11-11 21:03:17) *****
+		Meal Name	Calories
+		-------------------------
+		Breakfast	400.0
+		Lunch	350.0
+		Snacks	200.0
+		Dinner	340.0
+		Total:	1290.0
+		Average per meal:	322.5
+		-------------------------
+***WARNING***
+          YOU HAVE EXCEEDED YOUR DAILY CALORIE LIMIT!!!
+
+***** DAILY CALORIE INTAKE SUMMARY (2025-11-11 21:04:11) *****
+		Meal Name	Calories
+		-------------------------
+		Lunch	500.0
+		Breakfast	300.0
+		Dinner	500.0
+		Total:	1300.0
+		Average per meal:	433.3333333333333
+		-------------------------
+***WARNING***
+          YOU HAVE EXCEEDED YOUR DAILY CALORIE LIMIT!!!
