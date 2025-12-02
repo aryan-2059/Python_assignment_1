@@ -31,7 +31,7 @@ print(f"\t\tTotal:\t{total_calories}")
 print(f"\t\tAverage per meal:\t{avg_cal}")
 print("\t\t-------------------------")
 
-if avg_cal > lim:
+if total_calories > lim:
     print('''***WARNING***
           YOU HAVE EXCEEDED YOUR DAILY CALORIE LIMIT!!!''')
 else: 
@@ -60,3 +60,4 @@ if wish == 'yes':
     print(f"Summary saved to {filename}")
 else:
     print("Summary not saved.")
+
